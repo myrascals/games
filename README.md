@@ -5,5 +5,5 @@
 # Dev
 
 ```shell
-godot --headless --path ../igor-hood --export-release "Web" ../games/ApokalipsaZombie/index.html
+./buildApokalipsaZombie.sh ../igor-hood
 ```
