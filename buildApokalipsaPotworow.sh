@@ -17,7 +17,7 @@ SOURCE_DIR_ABS="$(cd "$SOURCE_DIR" && pwd)"
 
 cd "$SOURCE_DIR_ABS"
 
-INDEX_HTML="$SCRIPT_DIR/ApokalipsaZombie/index.html"
+INDEX_HTML="$SCRIPT_DIR/ApokalipsaPotworow/index.html"
 GAMES_INDEX="$SCRIPT_DIR/index.html"
 
 # Eksport gry (Web)

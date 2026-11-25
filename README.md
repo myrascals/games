@@ -5,5 +5,5 @@
 # Dev
 
 ```shell
-./buildApokalipsaZombie.sh ../igor-hood && git commit -m"Next version" && git push
+./buildApokalipsaPotworow.sh ../apokalipsa-potworow && git commit -m"Next version" && git push
 ```
